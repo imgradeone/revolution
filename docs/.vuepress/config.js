@@ -10,6 +10,7 @@ module.exports = {
           "releases": "版本更新历史",
           "downloads": "下载",
           "extensions": "素材 / 补丁插件",
+          "modlib": "Mod 仓库",
           "excel2mod": "Excel2DDLCMod"
         }
       },

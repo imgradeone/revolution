@@ -25,6 +25,11 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，在仓库
   link: https://ddlc.icu
   bgColor: '#FDDFF1'
   textColor: '#63575E'
+- name: DDLC 中文部
+  desc: 收录了 DokiMods（原 DDLCMods）的许多 Mod，避难所
+  link: https://dcc.52chye.cn
+  bgColor: '#F28AA9'
+  textColor: '#ffffff'
 ```
 :::
 
@@ -47,11 +52,26 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，在仓库
 ## DDLC 相关资料 / 工具
 ::: cardList 2
 ```yaml
+- name: DDLC 官网
+  desc: ddlc.moe
+  link: https://ddlc.moe
+  bgColor: '#FFBDE1'
+  textColor: '#181215'
+- name: Team Salvato 官网
+  desc: Dan 鸽的摸鸽实录（
+  link: http://teamsalvato.com
+  bgColor: '#7699CF'
+  textColor: '#ffffff'
 - name: Ren'Py
   desc: DDLC 使用的视觉小说引擎
   link: https://renpy.org
   bgColor: '#C4E3FF'
   textColor: '#343E43'
+- name: DDMC Community Assets (Google Drive)
+  desc: 适合 DDLC Mod 的免费资源（记得在 Mod 里给作者 Credits）
+  link: https://drive.google.com/drive/folders/1yTohcOnGV6Kw6Lru1cITWt-zwRoGSCm_
+  bgColor: '#0080ff'
+  textColor: '#ffffff'
 - name: Ren'Py 中文文档
   desc: 了解 Ren'Py 的基本内容
   link: https://renpy.cn/doc
