@@ -6,13 +6,9 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "dependencies": {
-    "core-js": "^2.6.11"
-  },
   "devDependencies": {
-    "vuepress-theme-antdocs": "^1.1.1",
-    "vue-template-compiler": "^2.6.11",
     "vuepress": "^1.8.2",
-    "vuepress-plugin-auto-sidebar": "^1.5.0"
+    "vuepress-plugin-auto-sidebar": "^1.5.0",
+    "vuepress-theme-vdoing": "^1.8.1"
   }
 }

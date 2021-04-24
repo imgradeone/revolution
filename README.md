@@ -23,7 +23,3 @@ $ yarn docs:dev
 ```shell
 $ yarn docs:build
 ```
-
-## 远程构建
-
-本 repo 使用 [jenkey2011/vuepress-deploy](jenkey2011/vuepress-deploy)。您只需要在 Settings 里面设置 Secrets - ACCESS_TOKEN，然后添加 GitHub 帐号的 Access Token 即可。

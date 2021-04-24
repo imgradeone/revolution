@@ -47,7 +47,14 @@ module.exports = {
       },
       nav: [
         { text: '主页', link: '/' },
-        { text: 'DDLC 中文 Mod 模板', link: '/modtemplate/'},
+        { text: '产品', link: '/products/',
+          items: [
+            { text: '产品', link: '/products/' },
+            { text: 'DDLC 中文 Mod 模板', link: '/products/cnmodtemp' },
+            { text: '蜜茶 Bot', link: '/products/mitana' },
+            { text: 'DokiMod 插件', link: '/products/extensions' }
+          ]
+        },
         { text: '文档', link: '/doc/',
           items: [
             { text: 'DDLC 中文 Mod 模板 / Mod 开发', link: '/doc/moddev' },
@@ -56,7 +63,7 @@ module.exports = {
             { text: '玩家帮助', link: '/doc/player' }
           ]
         },
-        { text: 'Mod 仓库', link: '/modlib/' },
+        { text: '下载', link: '/downloads/' },
         { text: '返回原版文档', link: 'https://dokimod.cn' },
         {
           text: 'GitHub',
