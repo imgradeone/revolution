@@ -22,6 +22,8 @@ features:
     link: /related/
 ---
 
+[![wakatime](https://wakatime.com/badge/github/imgradeone/revolution.svg)](https://wakatime.com/badge/github/imgradeone/revolution)
+
 欢迎来到全新的 DokiMod。
 ## 为什么会有 DokiMod 的重置？
 起初的 DokiMod 仅仅是 DDLC 中文 Mod 模板的文档站，但在 DokiMods.com / DDLCMods.com 以及隔壁的 DokiDokiModClub.com 网站关闭后，我意识到：DDLC 需要一个更稳定的社区平台。与此同时，DDLC 遭到的打压和目前模板的限制，意味着 DokiMod 将可能需要转变为不局限于 DDLC 的 **视觉小说 / Ren'Py 相关** 网站。
