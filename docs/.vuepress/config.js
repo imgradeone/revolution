@@ -4,6 +4,7 @@ module.exports = {
     plugins: {
       "vuepress-plugin-auto-sidebar": {
         titleMap: {
+          "modtemplate": "DDLC 中文 Mod 模板",
           "moddev": "Mod 开发",
           "player": "玩家指引",
           "mods": "精选 Mod",
