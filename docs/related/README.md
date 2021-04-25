@@ -46,6 +46,11 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，在仓库
   link: https://www.reddit.com/r/DDLCMods
   bgColor: '#5E8DD3'
   textColor: '#ffffff'
+- name: DDLC 官方周边商店
+  link: https://ddlcstore.com
+  bgColor: '#FF33A5'
+  textColor: '#ffffff'
+
 ```
 :::
 
