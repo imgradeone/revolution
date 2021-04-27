@@ -43,6 +43,10 @@ module.exports = {
           }
         ]
       },
+      author: {
+        name: 'imgradeone', // 必需
+        link: 'https://imgradeone.com/', // 可选的
+      },
       footer:{
         createYear: 2021,
         copyrightInfo: 'DokiMod Team | 本网站是粉丝作品，与 Team Salvato 无关 | hosted by <a href="https://vercel.com">Vercel</a> | powered by VuePress',
