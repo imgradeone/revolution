@@ -28,6 +28,8 @@ BGM: Interference: Finale by PTB10
 
 可在 [SoundCloud](https://soundcloud.com/ptb10/interference-finale) / [YouTube](https://www.youtube.com/watch?v=zpvvue4NisI) / [Spotify](https://open.spotify.com/album/0VSHqPV3xMohDs6H5ipgda) / [Apple Music](https://music.apple.com/gb/album/interference-single/1534813296) （国区无该歌曲版权） / [网易云音乐](https://music.163.com/song?id=1494262813) 播放。
 
+在此感谢 PTB10 的授权。（[授权相关 Twitter 私信截图](https://rc.g1san.cn/2ZFL)）
+
 ## 下载链接
 
 ### Demo 2.0
