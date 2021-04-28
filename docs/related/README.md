@@ -42,7 +42,7 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，在仓库
   bgColor: '#FF33A5'
   textColor: '#ffffff'
 - name: Reddit /r/DDLCMods
-  desc: 比 DokiMods 团队严格的 Mod 收录区
+  desc: 比 DokiMods 团队严格的 Mod 收录、讨论区
   link: https://www.reddit.com/r/DDLCMods
   bgColor: '#5E8DD3'
   textColor: '#ffffff'
@@ -51,7 +51,11 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，在仓库
   desc: 买个周边吧啊啊啊啊啊啊啊啊啊啊
   bgColor: '#FF33A5'
   textColor: '#ffffff'
-
+- name: Reddit /r/DDLCMods 的 Mod 列表
+  desc: 比 DokiMods 团队严格的 Mod 收录区
+  link: https://www.reddit.com/r/DDLCMods/wiki/modlist
+  bgColor: '#5E8DD3'
+  textColor: '#ffffff'
 ```
 :::
 
