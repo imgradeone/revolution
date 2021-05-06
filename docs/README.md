@@ -33,7 +33,7 @@ features:
 ## 参与文档编写
 欢迎大家积极参与 DokiMod 网站的内容编写，帮助 DokiMod 成为更加友好的 DDLC 社区。
 
-目前仓库暂时采用私库，在网站完善后，我将开放仓库，届时欢迎大家的 Pull Request。
+您现在可以在 [GitHub](https://github.com/imgradeone/revolution) 查看、Fork 仓库，然后准备参与编辑、提交 Pull Request 了。
 
 ## 关于 DokiMod Revolution 计划
 可在 [这里](/other/dokimod-revolution) 了解更多。

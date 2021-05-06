@@ -54,21 +54,13 @@ module.exports = {
       nav: [
         { text: '主页', link: '/' },
         { text: 'DDLC 中文 Mod 模板', link: '/modtemplate/'},
-        { text: '文档', link: '/doc/',
-          items: [
-            { text: 'DDLC 中文 Mod 模板 / Mod 开发', link: '/doc/moddev' },
-            { text: '蜜茶 Bot', link: '/doc/mitana' },
-            { text: 'DokiMod 插件开发', link: '/doc/extdev' },
-            { text: '玩家帮助', link: '/doc/player' }
-          ]
-        },
         { text: 'Mod 仓库', link: '/modlib/' },
         { text: '返回原版文档', link: 'https://dokimod.cn' },
         {
           text: 'GitHub',
           items: [
             { text: 'Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese' },
-            { text: '文档', link: 'https://github.com/imgradeone/DDMTCN-Docs' }
+            { text: '新版文档', link: 'https://github.com/imgradeone/revolution' }
           ]
         },
       ],

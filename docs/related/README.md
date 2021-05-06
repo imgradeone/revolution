@@ -8,9 +8,9 @@ permalink: /related/
 
 # DDLC 相关网站
 
-DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，在仓库开放之后，您可以在 Issue 区内分享你找到 / 搭建的 DDLC 相关网站。
+DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，您现在可以在 [Discussions 区](https://github.com/imgradeone/revolution/discussions/categories/ddlc-%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99%E6%8A%95%E7%A8%BF) 内分享你找到 / 搭建的 DDLC 相关网站。
 
-如果其中有网站突然更换域名 / 停止运营，也可以在 Issue 区提醒。
+如果其中有网站突然更换域名 / 停止运营，也可以在 [Discussions 区](https://github.com/imgradeone/revolution/discussions/categories/ddlc-%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99%E6%8A%95%E7%A8%BF) 提醒。
 
 ## 中文社区
 ::: cardList 2
