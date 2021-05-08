@@ -53,3 +53,5 @@ DokiMod 新站点将不再使用 GitHub Pages 托管，取而代之的是 [Verce
 现行 1.x 版本的中文 Mod 模板也将继续维护，并将同步部分 2.0 模板的功能，而目前我也将 2.0 模板的 `rhide` 类转场效果加入了 1.x 模板的开发版本，角色可以从右侧进场 / 出场了。
 
 现在您可以查看新 Mod 模板的 [GitHub 仓库](https://github.com/imgradeone/DDLCModTemplate-Chinese-next)。
+
+## 
