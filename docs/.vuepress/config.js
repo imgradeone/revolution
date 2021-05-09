@@ -56,11 +56,14 @@ module.exports = {
         { text: 'DDLC 中文 Mod 模板', link: '/modtemplate/'},
         { text: 'Mod 仓库', link: '/modlib/' },
         { text: '返回原版文档', link: 'https://dokimod.cn' },
+        { text: '开发文档站', link: 'https://docs.dokimod.cn' },
         {
           text: 'GitHub',
           items: [
             { text: 'Mod 模板', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese' },
-            { text: '新版文档', link: 'https://github.com/imgradeone/revolution' }
+            { text: 'Mod 模板 2.0', link: 'https://github.com/imgradeone/DDLCModTemplate-Chinese-next' },
+            { text: '新版文档', link: 'https://github.com/imgradeone/revolution' },
+            { text: '新版开发文档', link: 'https://github.com/imgradeone/revolution-doc' }
           ]
         },
       ],
