@@ -54,4 +54,5 @@ DokiMod 新站点将不再使用 GitHub Pages 托管，取而代之的是 [Verce
 
 现在您可以查看新 Mod 模板的 [GitHub 仓库](https://github.com/imgradeone/DDLCModTemplate-Chinese-next)。
 
-## 
+## Not Mod-Related Fan Work
+改版之后的 DokiMod 
