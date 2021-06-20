@@ -3,7 +3,6 @@ home: true
 heroImage: /logo-vertical.png
 heroText: DokiMod
 tagline: 为 Mod 创作赋能。
-footer: made by imgradeone | 本网站是粉丝作品，与 Team Salvato 无关 | hosted by GitHub Pages | powered by VuePress
 postList: none
 bannerBg: none
 
