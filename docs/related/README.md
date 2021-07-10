@@ -52,7 +52,7 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，您现在
   bgColor: '#5E8DD3'
   textColor: '#ffffff'
 - name: DDLC 官方周边商店
-  link: https://ddlcstore.com
+  link: https://ddlc.plus/merch
   desc: 买个周边吧啊啊啊啊啊啊啊啊啊啊
   bgColor: '#FF33A5'
   textColor: '#ffffff'
