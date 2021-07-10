@@ -72,6 +72,11 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，您现在
   link: https://ddlc.moe
   bgColor: '#FFBDE1'
   textColor: '#181215'
+- name: DDLC Plus! 官网
+  desc: ddlc.plus
+  link: https://ddlc.plus
+  bgColor: '#E61484'
+  textColor: '#ffffff'
 - name: Team Salvato 官网
   desc: Dan 鸽的摸鸽实录（
   link: http://teamsalvato.com
@@ -82,6 +87,11 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，您现在
   link: https://renpy.org
   bgColor: '#C4E3FF'
   textColor: '#343E43'
+- name: DDLC Mod Template（v2 英文模板）
+  desc: 额外支持更多功能和 Ren'Py SDK 7 的新版模板
+  link: https://github.com/GanstaKingofSA/DDLCModTemplate2.0
+  bgColor: '#dfdfdf'
+  textColor: '#030303'
 - name: DDMC Community Assets (Google Drive)
   desc: 适合 DDLC Mod 的免费资源（记得在 Mod 里给作者 Credits）
   link: https://drive.google.com/drive/folders/1yTohcOnGV6Kw6Lru1cITWt-zwRoGSCm_
@@ -97,16 +107,6 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，您现在
   link: https://renpy.cn/
   bgColor: '#1582B8'
   textColor: '#ffffff'
-- name: DDLC Mod Template（原版模板）
-  desc: 中文 Mod 模板基于此修改
-  link: https://github.com/Monika-After-Story/DDLCModTemplate
-  bgColor: '#1d1d1d'
-  textColor: '#ffffff'
-- name: DDLC Mod Template（v2 英文模板）
-  desc: 额外支持更多功能和 Ren'Py SDK 7 的新版模板
-  link: https://github.com/GanstaKingofSA/DDLCModTemplate2.0
-  bgColor: '#dfdfdf'
-  textColor: '#030303'
 ```
 :::
 
