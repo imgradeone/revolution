@@ -27,7 +27,7 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，您现在
   textColor: '#63575E'
 - name: DDLC 中文部
   desc: 收录了 DokiMods（原 DDLCMods）的许多 Mod，避难所
-  link: https://dcc.52chye.cn
+  link: https://ddlc.top
   bgColor: '#F28AA9'
   textColor: '#ffffff'
 ```
