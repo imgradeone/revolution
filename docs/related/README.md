@@ -36,18 +36,13 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，您现在
 ## 国际社区
 ::: cardList 2
 ```yaml
-- name: DokiMods
-  desc: 最大的 DDLC Mod 仓库现已回归
-  link: https://dokimods.me
-  bgColor: '#F891F0'
-  textColor: '#ffffff'
 - name: Reddit /r/DDLC
   desc: a global DDLC subreddit
   link: https://www.reddit.com/r/DDLC
   bgColor: '#FF33A5'
   textColor: '#ffffff'
 - name: Reddit /r/DDLCMods
-  desc: 比 DokiMods 团队严格的 Mod 收录、讨论区
+  desc: 国际性的 Mod 收录、讨论区
   link: https://www.reddit.com/r/DDLCMods
   bgColor: '#5E8DD3'
   textColor: '#ffffff'
