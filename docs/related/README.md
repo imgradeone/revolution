@@ -26,7 +26,7 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，您现在
   bgColor: '#FDDFF1'
   textColor: '#63575E'
 - name: DDLC 中文部
-  desc: 收录了 DokiMods（原 DDLCMods）的许多 Mod，避难所
+  desc: 中文 DDLC 内容收录
   link: https://ddlc.top
   bgColor: '#F28AA9'
   textColor: '#ffffff'
@@ -46,15 +46,15 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，您现在
   link: https://www.reddit.com/r/DDLCMods
   bgColor: '#5E8DD3'
   textColor: '#ffffff'
+- name: Reddit /r/DDLCMods 的 Mod 列表
+  desc: 国际性的 Mod 收录、讨论区，内含许多优质作品
+  link: https://www.reddit.com/r/DDLCMods/wiki/modlist
+  bgColor: '#5E8DD3'
+  textColor: '#ffffff'
 - name: DDLC 官方周边商店
   link: https://ddlc.plus/merch
   desc: 买个周边吧啊啊啊啊啊啊啊啊啊啊
   bgColor: '#FF33A5'
-  textColor: '#ffffff'
-- name: Reddit /r/DDLCMods 的 Mod 列表
-  desc: 比 DokiMods 团队严格的 Mod 收录区
-  link: https://www.reddit.com/r/DDLCMods/wiki/modlist
-  bgColor: '#5E8DD3'
   textColor: '#ffffff'
 ```
 :::
@@ -77,7 +77,7 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，您现在
   link: http://teamsalvato.com
   bgColor: '#7699CF'
   textColor: '#ffffff'
-- name: Ren'Py
+- name: Ren'Py 视觉小说引擎官网
   desc: DDLC 使用的视觉小说引擎
   link: https://renpy.org
   bgColor: '#C4E3FF'
@@ -92,6 +92,11 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，您现在
   link: https://drive.google.com/drive/folders/1yTohcOnGV6Kw6Lru1cITWt-zwRoGSCm_
   bgColor: '#0080ff'
   textColor: '#ffffff'
+- name: Team Salvato IP Guidelines 翻译
+  desc: 创作 DDLC 同人内容前必读
+  link: https://revolution.dokimod.cn/ipguidelines
+  bgColor: '#C4E3FF'
+  textColor: '#343E43'
 - name: Ren'Py 中文文档
   desc: 了解 Ren'Py 的基本内容
   link: https://renpy.cn/doc
