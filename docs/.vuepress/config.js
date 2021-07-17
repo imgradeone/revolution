@@ -55,6 +55,7 @@ module.exports = {
         { text: '主页', link: '/' },
         { text: 'DDLC 中文 Mod 模板', link: '/modtemplate/'},
         { text: 'Mod 仓库', link: '/modlib/' },
+        { text: 'IP Guidelines', link: '/ipguidelines' },
         { text: '返回原版文档', link: 'https://dokimod.cn' },
         { text: '开发文档站', link: 'https://docs.dokimod.cn' },
         {
