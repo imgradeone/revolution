@@ -11,7 +11,7 @@ title: IP Guidelines
 我们正在更新 IP Guidelines 的翻译，在此期间建议您查看 [英文原文](http://teamsalvato.com/ip-guidelines/)。
 :::
 
-本页面详细介绍了与 Doki Doki Literature Club (DDLC) 相关的粉丝内容创作准则。本准则将解释对于 DDLC 粉丝内容，你允许做的，以及不允许做的事。
+本页面详细介绍了与 Doki Doki Literature Club (DDLC) 和 DDLC Plus 相关的粉丝内容创作准则。本准则将解释对于 DDLC 相关粉丝内容，你允许做的，以及不允许做的事。
 
 ## TL;DR
 
@@ -26,7 +26,7 @@ title: IP Guidelines
 1. 您不能将 DDLC Plus 的支线故事内容移植回原版 DDLC，或者内置于其它饭制游戏。您只能基于支线故事创作新原创内容。
 
 ## 免责声明
-本准则并不代表您拥有 DDLC 相关的粉丝内容的所有版权。即便有这些准则，Team Salvato 仍保留对侵权行为投诉的权力。这包括所有使用官方 DDLC 资源 / 素材的内容，以及包含属于 Team Salvato 知识产权（IP）的内容。原版 IP Guidelines 随时可能更新，且不会另行通知。
+本准则并不代表您拥有 DDLC 相关的粉丝内容的所有版权。即便有这些准则，Team Salvato 仍保留对侵权行为投诉的权力。这包括所有使用官方 DDLC 和 DDLC Plus 资源 / 素材的内容，以及包含属于 Team Salvato 知识产权（IP）的内容。原版 IP Guidelines 随时可能更新，且不会另行通知。
 
 原英文版本页面更新于：2021 年 7 月 12 日
 
@@ -35,9 +35,11 @@ title: IP Guidelines
 
 对于作者如何描绘 DDLC 的角色、设定和事件，我们不做任何限制。我们尊重艺术创作自由，不会因为自身不同意其内容或与官方原作描述发生冲突就针对粉丝作品。
 
-由独立作者制作的实体版的粉丝作品可以以限量版的形式，在本地发售（如见面会）。如果这些作者有自己的网店或自己运输作品，也可以将作品在网上进行销售。但是，作者不能将自己的 DDLC 粉丝作品上传到大型批量生产的平台上（如 Redbubble）。
+由独立作者制作的实体版的粉丝作品可以以限量版的形式，在本地发售（如见面会）。如果这些作者有自己的网店或自己运输作品，也可以将作品在网上进行销售。但是，作者不能将自己的 DDLC 粉丝作品上传到大型批量生产的平台上（如 Redbubble）。作者也不能以任何身份将修改版的官方素材出售。
 
-粉丝作品必须与 DDLC 世界有所关联 —— 您不能在与 DDLC 无关的地方使用包含 Team Salvato IP 的内容。（如，在某个与 DDLC 完全无关的网站 / 产品上使用 DDLC 的角色图像）
+粉丝作品必须与 DDLC 世界有所关联 —— 您不能在与 DDLC 无关的地方使用包含 Team Salvato IP 的内容。（如，在某个与 DDLC 完全无关的网站 / 产品上使用 DDLC 的角色图像，或者将 DDLC 角色作为 **并非 DDLC 粉丝内容创作者** 的头像或“vtuber”）
+
+> 本段翻译存疑。原文为 `using a DDLC character as a digital avatar or ‘vtuber’ for use in content creation that is itself not a fan work`。
 
 需要以其他方式销售 DDLC 粉丝作品的企业或公司，请[联系 Team Salvato](http://teamsalvato.com/contact-us/) 以获得许可。
 
@@ -75,11 +77,11 @@ DDLC Plus 的新功能、场景、资源**不允许**包含在 Mod 和饭制游�
 
 官方 DDLC 资源不能用于单独的游戏 —— 官方资源只能用于 Mod。详情请见“Mod”小节。
 
-饭制游戏必须免费获取，不可付费销售。赞助 / 捐赠链接允许在饭制游戏官网上显示。但是，饭制游戏本身不得**在游戏内内置**赞助 / 捐赠链接，或者**鼓励玩家赞助 / 捐赠**。
+饭制游戏必须免费获取，不可付费销售。赞助 / 捐赠链接允许在饭制游戏官网上显示。但是，饭制游戏本身不得**在游戏内内置**赞助 / 捐赠链接，或者**鼓励玩家在游戏内赞助 / 捐赠、购买周边，以及为赞助者或其他服务捐款**。
 
 > 译者补充**反例**：某 Android / iOS 移植版在游戏内嵌入爱发电链接
 
-饭制游戏必须在首次启动说明，这是个饭制游戏，与 Doki Doki Literature Club 官方无关。必须建议玩家通关原游戏后再玩此饭制游戏，同时提供原版游戏的官方下载链接（https://ddlc.moe）。
+饭制游戏必须在首次启动说明，这是个饭制游戏，与 Doki Doki Literature Club 官方无关。必须建议玩家通关原游戏后再玩此饭制游戏，同时提供原版游戏的官方下载链接（[https://ddlc.moe](https://ddlc.moe)）。
 
 为了您的方便，下面是一个免责声明示例：
 
