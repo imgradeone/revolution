@@ -104,7 +104,7 @@ permalink: /modtemplate/chinesefonts
 
 ### 推荐
 
-[imgradeone 的私人网盘（Revocloud）](https://rc.g1san.cn/YRfW) | [Monika Cloud（由 MTR 提供支持）](https://pan.monika.love/s/945CL)
+[imgradeone 的私人网盘（Revocloud）](https://rc.g1san.cn/YRfW)
 
 ### 中国大陆地区用户
 

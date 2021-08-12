@@ -38,8 +38,7 @@ date: 2021-04-25 18:05:54
 1. macOS `.app` 及 Linux `.sh` 启动文件制作支持
 1. 完整的 Android 支持！DDLC 的一切（除了 `[currentuser]` 变量）可在 Android 平台正常运行。
     > 请前往 [原版 DDLC Mod Template 2.0](https://github.com/GanstaKingofSA/DDLCModTemplate2.0/blob/master/guide.pdf) 所附带的 `guide.pdf` 了解 Android Mod 移植 / 开发。
-1. Xcode 支持！Open this project in Xcode and you can edit, build, and run your mod without opening the Ren'Py Launcher ever again! 
-    > 提示：您需要更改 `RENPY_TOOL` 变量，将其定位到您的 Ren'Py SDK 应用程序位置。[了解更多 &rsaquo;](XCODE.md)
+1. Xcode 支持！您可以在 Xcode 中直接编辑、构建、测试您的 DDLC Mod，无需打开 Ren'Py 启动器。
 1. Terra 的深度诗词游戏教程（WIP）
 1. NVL 模式支持 - 特别感谢 Yagamirai01
 
