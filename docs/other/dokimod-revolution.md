@@ -50,6 +50,16 @@ DokiMod 新站点将不再使用 GitHub Pages 托管，取而代之的是 [Verce
 
 目前，[GanstaKingofSA](https://github.com/GanstaKingofSA) 的 [DDLC Mod 模板](https://github.com/GanstaKingofSA/DDLCModTemplate2.0) 已经支持了 Android Mod 移植、Ren'Py SDK 7、使用 Xcode 开发、NVl 模式，以及追加了许多新功能，而接下来，我将准备基于此模板进行一些修改，完善汉化配置，推出 2.0 版本的中文 Mod 模板。你将可以体验 Ren'Py 7 带来的许多新特性，包括 Live2D Cubism SDK 支持，而 Mod 也将更有生命力，同时在制作独立视觉小说时的压力也会更小。
 
-现行 1.x 版本的中文 Mod 模板已经停止维护，但最终版本（`v1.4.0`）也已经拥有部分 2.0 模板的功能=。
+现行 1.x 版本的中文 Mod 模板已经停止维护，但最终版本（`v1.4.0`）也已经拥有部分 2.0 模板的功能。
 
 现在您可以查看新 Mod 模板的 [GitHub 仓库](https://github.com/imgradeone/DDLCModTemplate-Chinese-next)。
+
+## 感谢每一位创造奇迹的你
+DDLC 如今的奇迹，是由每一位创作者创造而成的。感谢你们为 DDLC 宇宙注入全新的活力，让文学部的故事继续下去。
+
+在此，我也想特别感谢每一位支持 DokiMod 的人：
+
+- [GanstaKingofSA](https://github.com/GanstaKingofSA)，DDLC Mod Template 2.0 的作者，在 DDLC 中文 Mod 模板和 DokiMod 网站建设过程中也给予了充分支持。
+- [MTR](https://github.com/mtr-static-official)，Monika After Story 汉化作者，也是 Monika.love、DDLC.icu 社区管理员，在中文 Mod 模板早期有支持宣发。
+
+Thank you.
