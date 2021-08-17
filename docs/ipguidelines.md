@@ -1,5 +1,7 @@
 ---
 title: IP Guidelines
+sidebar: false
+article: false
 ---
 
 # IP Guidelines
