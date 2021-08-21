@@ -5,7 +5,7 @@ date: 2021-04-27 13:25:08
 ---
 # 让她坠落
 
-![](/letherfall.png)
+![](/modinfo/letherfall.png)
 
 这里是 DokiMod 的 imgradeone 开发的第一款 Mod，它是关于校园霸凌的 Mod。
 
