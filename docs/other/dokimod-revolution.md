@@ -61,5 +61,6 @@ DDLC 如今的奇迹，是由每一位创作者创造而成的。感谢你们为
 
 - [GanstaKingofSA](https://github.com/GanstaKingofSA)，DDLC Mod Template 2.0 的作者，在 DDLC 中文 Mod 模板和 DokiMod 网站建设过程中也给予了充分支持。
 - [MTR](https://github.com/mtr-static-official)，Monika After Story 汉化作者，也是 Monika.love、DDLC.icu 社区管理员，在中文 Mod 模板早期有支持宣发。
+- [Dobby233Liu](https://github.com/Dobby233Liu)，DokiMod 的贡献者，积极维护 DokiMod 项目。
 
 Thank you.

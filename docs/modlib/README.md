@@ -25,7 +25,11 @@ autoGroup+1: 序
 
 ::: cardImgList 3
 ```yaml
-- img: /letherfall.png
+- img: /modinfo/chinesepatch.png
+  link: /modlib/chinesepatch
+  name: DDLC 简体中文汉化补丁
+  desc: 社区知名的 DDLC 汉化补丁
+- img: /modinfo/letherfall.png
   link: /modlib/letherfall
   name: 让她坠落
   desc: DokiMod 第一部 Mod 作品
