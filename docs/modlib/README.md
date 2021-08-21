@@ -14,7 +14,7 @@ autoGroup+1: 序
 
 ::: cardImgList 2
 ```yaml
-- img: /letherfall.png
+- img: /modinfo/letherfall.png
   link: /modlib/letherfall
   name: 让她坠落
   desc: DokiMod 第一部 Mod 作品
