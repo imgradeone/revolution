@@ -16,7 +16,7 @@ date: 2021-09-11 18:14:05
 
 由 [DiabloGraves](https://www.reddit.com/user/DiabloGraves/) 开发的 Mod。
 
-现在，你有机会修复这一切了。
+现在，你有机会修复一切糟糕的事物了。
 
 ## Reddit 原帖链接
 

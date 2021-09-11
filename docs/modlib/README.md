@@ -16,6 +16,10 @@ autoGroup+1: 序
 
 ::: cardImgList 3
 ```yaml
+- img: /modinfo/mlhnstlc.png
+  link: /modlib/mlhnstlc
+  name: Magical Literary Heroine Natsuki Saves The Literature Club!
+  desc: 现在，你有机会修复一切糟糕的事物了。
 - img: /modinfo/retry.png
   link: /modlib/retry
   name: Retry
