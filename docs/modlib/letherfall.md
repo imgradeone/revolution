@@ -32,11 +32,10 @@ BGM: Interference: Finale by PTB10
 
 ## 下载链接
 
-### Demo 2.0
+### Demo 3.0
 
 Mod 的最新版本。
 
-- [Monika Cloud](https://pan.monika.love/s/l0mHW)
-- [imgradeone 的私人网盘](https://cloud.imgradeone.com/index.php/s/gPnAprrL76ckB8J)
-- [蓝奏云](https://imgradeone.lanzous.com/iBMrymmqppa)
-- [GitHub](https://github.com/imgradeone/LetHerFall-demoreleases/releases/download/v1.0.0-demo2/LetHerFall-1.0.0-demo2-Mod.zip)
+- [Monika Cloud](https://pan.monika.love/s/BZdSr)
+- [imgradeone 的私人网盘](https://rc.g1san.cn/J6Ib)
+- [蓝奏云](https://imgradeone.lanzoui.com/iMMGjs3x8li)
