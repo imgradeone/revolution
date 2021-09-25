@@ -24,7 +24,7 @@ module.exports = {
     head: [
       ['meta', { name: 'theme-color', content: '#fa4694' }],
       ['link', { rel: 'icon', href: '/logo_128x128.png' }],
-      ['meta', { name: 'keywords', content: '心跳文学部,心跳文学部mod,mod开发,心跳文学部mod开发,ddlc mod,ddlcmod,doki doki literature club,doki doki literature club mods,dokimod,文学部,文学部mod,游戏mod开发' }],
+      ['meta', { name: 'keywords', content: 'DokiMod,心跳文学部,心跳文学部mod,mod开发,心跳文学部mod开发,ddlc mod,ddlcmod,doki doki literature club,doki doki literature club mods,dokimod,文学部,文学部mod,游戏mod开发' }],
     ],
     base: "/",
     themeConfig: {
@@ -58,7 +58,7 @@ module.exports = {
       },
       footer:{
         createYear: 2020,
-        copyrightInfo: 'DokiMod Team | 本网站是粉丝作品，与 Team Salvato 无关 | hosted by <a href="https://vercel.com">▲ Vercel</a> | powered by VuePress',
+        copyrightInfo: 'DokiMod Team | 本网站是粉丝作品，与 Team Salvato 无关 | hosted by <a href="https://vercel.com">▲ Vercel</a> | powered by VuePress<br><a href="https://stat.imgradeone.com/revolution.dokimod.cn">访问统计信息</a>',
       },
       nav: [
         { text: '主页', link: '/' },
