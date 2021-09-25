@@ -2,7 +2,7 @@ module.exports = {
     title: 'DokiMod',
     description: '为 Mod 创作赋能。',
     plugins: {
-      'plausible': { domain: 'dokimod.cn' },
+      'plausible-imgradeone': { domain: 'dokimod.cn' },
       "vuepress-plugin-auto-sidebar": {
         titleMap: {
           "modtemplate": "DDLC 中文 Mod 模板",
