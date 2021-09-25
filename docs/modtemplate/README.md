@@ -33,11 +33,15 @@ date: 2021-04-25 18:05:54
 
 ## 开始制作 Mod
 
-### 中文字体
-
-DDLC 中文 Mod 模板使用了一些免费商用的中文字体，在此致谢。**从 Mod 模板 v2.0.0-beta2 开始，您不需要下载任何字体即可开始开发，所有字体均内置于模板中。**
-
-如有需要，您也可以自行修改配置文件，以自定义字体，**但请自主承担版权风险**。
+::: cardList 2
+```yaml
+- name: 查看开发文档，请前往 DokiMod 开发文档站
+  desc: https://docs.dokimod.cn/modtemplate/
+  link: https://docs.dokimod.cn/modtemplate/
+  bgColor: '#fa4694' # 背景色，可选，默认var(--bodyBg)。颜色值有#号时请添加引号
+  textColor: '#ffffff' # 文本色，可选，默认var(--textColor)
+```
+:::
 
 ---
 
