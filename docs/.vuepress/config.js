@@ -2,6 +2,7 @@ module.exports = {
     title: 'DokiMod',
     description: '为 Mod 创作赋能。',
     plugins: {
+      'plausible': { domain: 'dokimod.cn' },
       "vuepress-plugin-auto-sidebar": {
         titleMap: {
           "modtemplate": "DDLC 中文 Mod 模板",
@@ -23,7 +24,7 @@ module.exports = {
     head: [
       ['meta', { name: 'theme-color', content: '#fa4694' }],
       ['link', { rel: 'icon', href: '/logo_128x128.png' }],
-      ['meta', { name: 'keywords', content: '心跳文学部,心跳文学部mod,mod开发,心跳文学部mod开发,ddlc mod,ddlcmod,doki doki literature club,doki doki literature club mods,dokimod,文学部,文学部mod,游戏mod开发' }]
+      ['meta', { name: 'keywords', content: '心跳文学部,心跳文学部mod,mod开发,心跳文学部mod开发,ddlc mod,ddlcmod,doki doki literature club,doki doki literature club mods,dokimod,文学部,文学部mod,游戏mod开发' }],
     ],
     base: "/",
     themeConfig: {
