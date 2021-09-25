@@ -88,6 +88,7 @@ Ren'Py 的许可，请参照 https://www.renpy.cn/doc/license.html （简体中�
 
 [Telegram 频道](https://t.me/DDLCModCN)  
 [Odysee 频道](https://odysee.com/@DokiMod:1)
+[Twitter](https://twitter.com/DokiMod)
 
 ---
 
