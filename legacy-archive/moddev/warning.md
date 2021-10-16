@@ -41,7 +41,7 @@ Team Salvato 曾经[在博客上说](http://teamsalvato.com/blog/regarding-ddlc-
 
 请不要把 Mod 上架到任何游戏商店。如果你需要让更多人了解你的 Mod，你可以考虑：
 
-1. [去中文非官方 DDLC 论坛宣传你的 Mod](https://discuss.ddlc.top)
+1. [去中文非官方 DDLC 论坛宣传你的 Mod](https://discuss.ddlc.top/forum.php)
 1. [在 DDLCMods.com 提交原创 Mod 收录申请](http://ddlcmods.com/mod-submission-form/)
 1. [问 MTR，让 MTR 帮你托管你的 Mod](https://mtrcdn.tk)
 1. and more...

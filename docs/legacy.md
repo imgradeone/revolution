@@ -15,7 +15,7 @@ footerWrap:
 - headline: 友情链接
   items:
   - title: 非官方 DDLC 中文论坛
-    link: https://discuss.ddlc.top
+    link: https://discuss.ddlc.top/forum.php
     details: 啊这（
   - title: 非官方 DDLC 社区兼主题站
     link: https://monika.love
