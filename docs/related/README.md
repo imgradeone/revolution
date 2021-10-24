@@ -25,11 +25,6 @@ DokiMod 希望您能够帮助寻找潜在的活跃 DDLC 相关网站，您现在
   link: https://discuss.ddlc.top/forum.php
   bgColor: '#FDDFF1'
   textColor: '#63575E'
-- name: DDLC 中文部
-  desc: 中文 DDLC 内容收录
-  link: https://ddlc.top
-  bgColor: '#F28AA9'
-  textColor: '#ffffff'
 ```
 :::
 
