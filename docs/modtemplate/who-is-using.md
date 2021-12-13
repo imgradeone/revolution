@@ -19,7 +19,7 @@ date: 2021-09-11 16:52:03
   link: https://discuss.ddlc.top/thread-1248-1-1.html
   bgColor: '#979797'
   textColor: '#fff'
-- name: "3247616335"
+- name: "查伦"
   desc: 正在创作《NewWorld》
   link: https://discuss.ddlc.top/thread-1281-1-1.html
   bgColor: '#96A8B3'
