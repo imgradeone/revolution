@@ -24,11 +24,11 @@ autoGroup+1: 序
   link: /modlib/retry
   name: Retry
   desc: rewind of time.
-- img: /modinfo/chinesepatch.png
+- img: /modinfo/chinesepatch.jpg
   link: /modlib/chinesepatch
   name: DDLC 简体中文汉化补丁
   desc: 社区知名的 DDLC 汉化补丁
-- img: /modinfo/letherfall.png
+- img: /modinfo/letherfall.jpg
   link: /modlib/letherfall
   name: 让她坠落
   desc: DokiMod 第一部 Mod 作品
